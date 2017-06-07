@@ -106,3 +106,59 @@
   }
 }
 
+/* CURRENT */
+
+.showInfo {
+  font-size: 18px;
+}
+
+.addressIcons {
+  padding-left: 10px;
+}
+
+.addressIcons .address {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 14px;
+  padding-left: 12px;  
+}
+
+.addressIcons .fa {
+  padding: 6px;
+
+}
+
+.showInfo h3 {
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 0;
+  padding-top: 5px;
+}
+
+.showInfo span {
+  font-weight: normal;
+}
+
+.showInfo h3 + h4 {
+  font-weight: normal;
+  padding-top: 0;
+  margin: 0;
+  margin-bottom: 33px;
+
+}
+
+.showImage {
+  padding: 10px;
+}
+
+.currentShow {
+  padding: 30px;
+}
+
+
+/*Archive*/
+
+.currentShow h1 {
+  text-align: center;
+  margin-bottom: 60px;
+}
